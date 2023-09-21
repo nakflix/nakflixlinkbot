@@ -47,11 +47,11 @@
      },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": "mongodb+srv://kidderke8:alpha3720@netflixxe.tixwcbz.mongodb.net/?retryWrites=true&w=majority"
+      "value": "mongodb+srv://alpha:alpha3720@nakflixlinkbot.clbbjao.mongodb.net/?retryWrites=true&w=majority"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "netflixxe"
+      "value": "nakflixlinkbot"
     },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
